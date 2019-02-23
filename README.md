@@ -4,5 +4,5 @@ The elevator works on the basis of priority. When a user at a certain floor push
 The language used to implement the controller was System Verilog and it is implemented onto an FPGA. The project was built to the Digital Design Course @Bilkent University. 
 The project got full points and here is a picture before the project presentation demo. 
 
-https://github.com/ndricimrr/Dual-Controller/blob/master/twinelevatorpresent.JPG
+![https://github.com/ndricimrr/Dual-Controller/blob/master/twinelevatorpresent.JPG]
 
